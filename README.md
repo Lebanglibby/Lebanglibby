@@ -7,6 +7,7 @@
 - Frontend Design
 - System Analysis
 - Systems Programming
+- Mobile Development
 
 💼 My technical skills encompass:
 - Frontend Development: Proficient in creating responsive and user-friendly web interfaces
