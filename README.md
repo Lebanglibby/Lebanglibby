@@ -8,9 +8,10 @@
 - System Analysis
 - Systems Programming
 - Mobile Development
+- API Security
 
 💼 My technical skills encompass:
-- Frontend Development: Proficient in creating responsive and user-friendly web interfaces
+- Frontend Development: Proficient in creating responsive and user-friendly interfaces
 - System Analysis: Experienced in analyzing complex systems and proposing efficient solutions
 - Systems Programming: Skilled in low-level programming and optimizing system performance
 
